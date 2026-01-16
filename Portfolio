@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <header>ABOUT MY SELF</header>
+  <p>My name is Mamidala.Naga Charan Kumar</p>
+  <p>i am 18 years old </p>
+  <p>Iam studying btech second year</p>
+  <H2> My Hobbies are </H2>
+  <ul>watching different kind of movies like 
+    <li>comedy</li>
+    <li>horror</li>
+    <li>thriller etc...</li>
+  </ul>
+
+  <H1> My daily time table is </H1>
+  <table  border="1" >
+    <tr> 
+      <th>
+        wake up time
+      </th>
+      <th>
+        activity 
+      </th>
+    </tr>
+    <tr>
+      <td> 05:00 Am wakeup  </td>
+      <td> freshup </td>
+    </tr>
+    <tr>
+  <td> 06:00 Am  </td>
+      <td> start doing works </td>
+    </tr>
+    <tr>
+      <td> 10:00 Am   </td>
+      <td> break</td>
+    </tr>
+    <tr>
+      <td> 12:00 pm </td>
+      <td> lunch </td>
+    </tr>
+
+  </table>
+<H4> i also want to know about your self </H4>
+<label for = " name "> name </label> 
+<input type ="text" placeholder = "enter your name ">
+<label for="movie" >movie</label>
+<input type = "text" placeholder = "enter fav movie">
+
+<h5> My fav movie is: <a href = "https://youtu.be/0oIvIwJ3qKg?si=sh6RE41MlER3BDWh" > my fav movie</a></h5>
+<br>
+
+<b> my fav hero is </b>
+<img src ="image.jpeg"  alt="pic" height ="500" width = "500">
+<br>
+<i><b> My another fav hero is : <a href ="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftracktollywood.com%2Fnandamuri-balakrishna-in-talks-for-web-series-with-an-ott-channel%2F&psig=AOvVaw1w5QIMHYupdwGYq4hKgRty&ust=1762967866206000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC5wJ3N6pADFQAAAAAdAAAAABAL"> another hero </a></b></i>
+<br>
+<br>
+</body>
+<foorter>
+  YOU CAN REACH ME ANY TIME THROUGH: makineniminnu@gmail.com
+</foorter>
+</html>
